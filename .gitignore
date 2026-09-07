@@ -1,0 +1,19 @@
+# Build
+build/
+build-*/
+*.o
+*.obj
+*.exe
+
+# Editors
+.vscode/*
+!.vscode/extensions.json
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Runtime logs captured by the honeypot itself
+larvatus_events.jsonl
+*.jsonl
