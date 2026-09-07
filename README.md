@@ -1,4 +1,8 @@
 # LARVATUS
+![CMake](https://github.com/xtr4ng3-oxlgr/larvatus/actions/workflows/cmake.yml/badge.svg)
+
+<img width="1734" height="907" alt="larvatus" src="https://github.com/user-attachments/assets/91a0d50d-be89-4009-b514-ff3a263e2c98" />
+
 
 Honeypot local en C++ que emula servicios comunes (SSH, Telnet, FTP, RDP) para
 detectar y registrar intentos de conexión no autorizados. No expone ningún
@@ -57,4 +61,7 @@ intención, no sostener una sesión completa.
 MIT — ver [LICENSE](LICENSE).
 
 ---
-by xtr4ng3 [xtr4ng3-oxlgr (xtr4ng3)](https://github.com/xtr4ng3-oxlgr)
+<img width="300" height="159" alt="xtr4ng3" src="https://github.com/user-attachments/assets/3b689f22-6f4e-4ba4-bcf9-f894d9adee11" />
+
+
+by xtr4ng3
